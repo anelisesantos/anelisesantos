@@ -1,4 +1,5 @@
-- 👋 Olá, sou @anelisesantos, uma desenvolvedora back-end especializada em Django, atuando na transformação digital do gov.br. Atualmente, estou envolvida no desenvolvimento de chatbots e no estudo de inteligência artificial, com um projeto em destaque no FABIN - Fábrica de Ideias Inovadoras, o chatbot "123 ajuda".
+- 👋 Olá, sou @anelisesantos, uma desenvolvedora back-end especializada em Django, atuando na transformação digital do gov.br.
+- ✨ Atualmente, estou envolvida no desenvolvimento de chatbots e no estudo de inteligência artificial, com um projeto em destaque no FABIN - Fábrica de Ideias Inovadoras, o chatbot "123 ajuda".
 - 👀 Minha paixão é a aplicação de inteligência artificial e ciência de dados em projetos inovadores.
 - 🌱 Sou estudante de Sistemas para Internet no último semestre, focada em pesquisa e desenvolvimento de software. Membro ativo do Grupo de Pesquisa em Computação Aplicada (GPCA) no IFB, contribuindo em projetos de IA e ciência de dados.
 - 💞️ Tenho uma experiência sólida de 12 anos como jornalista e produtora de conteúdo para EAD, além de experiência prática em desenvolvimento de sistemas na Diretoria de Tecnologia e Comunicação (DTIC) do IFB.
