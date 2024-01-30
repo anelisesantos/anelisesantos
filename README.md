@@ -16,7 +16,7 @@ Você pode clicar no link de visualização para dar uma olhada nas suas altera�
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ane-Django" height="30" width="40" src="LINK_DA_IMAGEM_DJANGO">
+  <img align="center" alt="Ane-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
   <img align="center" alt="Ane-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ane-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <!-- Outros ícones de habilidades relevantes -->
