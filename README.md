@@ -10,7 +10,7 @@ anelisesantos/anelisesantos é um repositório ✨ especial ✨ porque seu `READ
 Você pode clicar no link de visualização para dar uma olhada nas suas alterações.
 --->
 <div>
-  <a href="https://github.com/joao2206">
+  <a href="https://github.com/anelisesantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anelisesantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anelisesantos&layout=compact&langs_count=16&theme=dracula"/>
 </div>
